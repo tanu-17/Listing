@@ -14,6 +14,7 @@ Various feature testing
         <li>Bread</li>
         <li>Eggs</li>
         <li>Honey</li>
+        <li>Cornflakes</li>
       </ul>
     </div>
   </body>
